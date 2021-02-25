@@ -1,0 +1,16 @@
+{
+  "name": "tvlcap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^5.0.31",
+    "isomorphic-fetch": "^3.0.0"
+  }
+}
